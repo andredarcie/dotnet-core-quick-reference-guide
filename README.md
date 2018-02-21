@@ -10,7 +10,7 @@
    - XPath
    - XSD
    - XSL
-* Serialization 
+* Serialization (TODO)
    - BinaryFormatter
    - Data Contract
    - XML
