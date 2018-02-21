@@ -27,6 +27,12 @@
    - Threads
    - Thread Pool
    - Tasks
+* Core (TODO)
+   - Primitives
+   - Collections
+   - Reflection
+   - Interop
+   - Linq
    
 ## Hello World Example
 
