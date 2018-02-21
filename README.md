@@ -10,6 +10,10 @@
    - XPath
    - XSD
    - XSL
+* Serialization 
+   - BinaryFormatter
+   - Data Contract
+   - XML
 
 ## Hello World Example
 
